@@ -3,6 +3,6 @@ import {CommentBox, CommentList, CommentForm} from './components.jsx';
 
 
 React.render(
-  <CommentBox />,
+  <CommentBox url="comments.json" />,
   document.getElementById('content')
 );
