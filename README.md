@@ -2,6 +2,8 @@
 
 This a boilerplate for React working with Gulp, Browserify, Es6 and Stylus
 
+This project is **deprecated**. You should use one of the following starter kits instead https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits
+
 ### Installation
 
 ```sh
